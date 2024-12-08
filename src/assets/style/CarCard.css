@@ -1,0 +1,16 @@
+.MuiCard-root {
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.MuiCardMedia-root {
+  object-fit: cover;
+}
+
+.MuiCardContent-root {
+  text-align: center;
+}
+
+.MuiButton-root {
+  width: 100%;
+}

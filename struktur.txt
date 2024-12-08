@@ -1,0 +1,44 @@
+my-showroom-app/
+├── public/
+│   ├── assets/
+│   │   ├── images/
+│   │   │   ├── logo.png
+│   │   │   ├── team-member1.jpg
+│   │   │   ├── team-member2.jpg
+│   │   │   └── ... (gambar lainnya)
+│   │   └── ... (file aset lainnya)
+│   ├── index.html
+│   └── ... (file publik lainnya)
+├── src/
+│   ├── assets/
+│   │   ├── data/
+│   │   │   └── carData.jsx
+│   │   ├── style/
+│   │   │   ├── App.css
+│   │   │   ├── Header.css
+│   │   │   ├── HeroSection.css
+│   │   │   ├── CarCard.css
+│   │   │   ├── CarDetail.css
+│   │   │   ├── CarGrid.css
+│   │   │   ├── AboutUs.css
+│   │   │   └── Footer.css
+│   │   └── ... (file aset lainnya)
+│   ├── components/
+│   │   ├── Header.jsx
+│   │   ├── Footer.jsx
+│   │   ├── CarCard.jsx
+│   │   ├── CarGrid.jsx
+│   │   └── ... (komponen lainnya)
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── Collection.jsx
+│   │   ├── CarDetailPage.jsx
+│   │   ├── About.jsx
+│   │   ├── Contact.jsx
+│   │   └── ... (halaman lainnya)
+│   ├── App.jsx
+│   ├── index.js
+│   └── ... (file sumber lainnya)
+├── package.json
+├── README.md
+└── ... (file konfigurasi lainnya)

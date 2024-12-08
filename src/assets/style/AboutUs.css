@@ -1,0 +1,43 @@
+.about-us {
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.about-us-title {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.about-us-description {
+  margin-bottom: 40px;
+}
+
+.about-us-team {
+  margin-top: 40px;
+}
+
+.about-us-team-title {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.about-us-team-member {
+  text-align: center;
+}
+
+.about-us-testimonials {
+  margin-top: 40px;
+}
+
+.about-us-testimonials-title {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.about-us-testimonial {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}

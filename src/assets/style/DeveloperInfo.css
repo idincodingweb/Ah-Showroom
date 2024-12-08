@@ -1,0 +1,15 @@
+.developer-info {
+  padding: 50px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.developer-info .avatar {
+  width: 150px;
+  height: 150px;
+  margin: auto;
+}
+
+.developer-info .paper {
+  padding: 20px;
+}

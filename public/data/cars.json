@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota Avanza",
+    "price": "Rp 200.000.000",
+    "image": "https://images.pexels.com/photos/337909/pexels-photo-337909.jpeg",
+    "images": ["https://images.pexels.com/photos/337909/pexels-photo-337909.jpeg"],
+    "specs": "Mesin 1500cc, Transmisi Manual, Fitur Keselamatan Lengkap",
+    "financingOptions": "Cicilan 0% selama 12 bulan"
+  },
+  {
+    "id": 2,
+    "name": "Honda Civic",
+    "price": "Rp 350.000.000",
+    "image": "https://images.pexels.com/photos/337909/pexels-photo-337909.jpeg",
+    "images": ["https://images.pexels.com/photos/337909/pexels-photo-337909.jpeg", "/https://images.pexels.com/photos/337909/pexels-photo-337909.jpeg"],
+    "specs": "Mesin 1800cc, Transmisi Otomatis, Fitur Keselamatan Lengkap",
+    "financingOptions": "Cicilan 0% selama 24 bulan"
+  }
+]
